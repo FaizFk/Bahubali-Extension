@@ -9,4 +9,5 @@ fetch(
     p.innerHTML = cfData.result[0].verdict;
   });
 */
-alert("Hello abhijeet")
+let audio = new Audio('./sample-audio.mp3');
+audio.play();
